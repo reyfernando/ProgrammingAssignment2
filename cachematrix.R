@@ -26,6 +26,8 @@ i <- x$getinv()
   return(i)}             ###  we return the data
  
  
-##reference 1: https://guides.github.com/introduction/getting-your-project-on-github/
-##reference 2: http://stackoverflow.com/questions/25374803/returning-the-inverse-matrix-from-a-cached-object-in-r-checking-that-input-matri
-##reference 3: http://masterr.org/r/how-to-cache-a-matrix-inversion-in-r/
+##reference 0: https://www.youtube.com/watch?v=iUQR0enP7RQ   ## Understand inverting matrices
+##reference 1: https://guides.github.com/introduction/getting-your-project-on-github/  ### to remember how to commit files
+##reference 2: http://stackoverflow.com/questions/25374803/returning-the-inverse-matrix-from-a-cached-object-in-r-checking-that-input-matri   ## understanding solve function
+##reference 3: http://masterr.org/r/how-to-cache-a-matrix-inversion-in-r/   ###  Useful to test duration length of both functions -- one is much faster than other one
+
